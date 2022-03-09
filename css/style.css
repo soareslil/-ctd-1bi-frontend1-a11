@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.cabecalho{
+background-color: #222222;
+color: white;
+display: flex;
+justify-content: space-between;
+height: 100px;
+}
+
+.img-header{
+    padding:10px;
+}
+
+/* .ul-header{
+    list-style-type: none;
+    display: flex;
+    padding: 20px 20px;
+} */
+
+.div-p{
+    display: flex;
+    padding: 20px 20px;   
+    margin: 20px;
+}
+
+.div-p p{
+    padding-left:15px;
+}
+
+.div-header-img-h2{
+    display: flex;
+}
+
+.h2{
+    padding-top: 35px;
+    padding-left: 15px;
+}
