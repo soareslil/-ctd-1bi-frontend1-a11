@@ -29,7 +29,7 @@ height: 100px;
 }
 
 .img-footer {
-    padding: 30px;
+    padding: 20px;
 }
 
 .div-header-img-h2{
@@ -45,11 +45,12 @@ height: 100px;
 .h2{
     padding-top: 35px;
     padding-left: 15px;
+
 }
 
 .h2-footer {
     position: relative;
-    top: 68px;
+    top: 50px;
     right: 14px;
     height: 20px;
     font-size: 30px;
